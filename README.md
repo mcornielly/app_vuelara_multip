@@ -11,7 +11,7 @@ App with Laravel Framework &amp; Vue.js
 -- composer install
 -- composer require laravel/ui:^2.4
 -- php artisan ui vue --auth
-```
+```  
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
